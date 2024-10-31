@@ -24,6 +24,8 @@ To install dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+jupyter notebook notebooks/rover_landing_exploration.ipynb
+
 
 ## Usage
 
