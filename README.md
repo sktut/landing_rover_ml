@@ -20,8 +20,6 @@ The rover agent learns to navigate a grid environment using Q-learning. It recei
 - Python 3.x
 - numpy
 
-To install dependencies, run:
-
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/rover_landing_exploration.ipynb
