@@ -29,6 +29,6 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rover-landing-ml.git
+   git clone https://github.com/sktut/landing_rover_ml.git
    cd rover-landing-ml
 
