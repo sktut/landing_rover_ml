@@ -24,3 +24,11 @@ To install dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/rover-landing-ml.git
+   cd rover-landing-ml
+
